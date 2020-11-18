@@ -1,0 +1,15 @@
+.carte
+{
+    display: flex;
+}
+
+.dark
+{
+    background-color: black;
+    color: red;
+}
+
+.dark .carte .card
+{
+    background-color:black;
+}
